@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem 'cucumber'
+gem 'cucumber', github: 'cucumber/cucumber'
 gem 'aruba'
